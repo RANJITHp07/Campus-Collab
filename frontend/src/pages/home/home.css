@@ -1,0 +1,12 @@
+.title{
+    position:absolute;
+    top:350px;
+    right: 180px;
+   
+}
+
+body{
+    background-image: url("home.jpg");
+    background-size: cover;
+    background-color: aliceblue;
+}
