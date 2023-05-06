@@ -1,2 +1,3 @@
 # Campus-Collab
-it is educational site where students could connect each other
+
+This is a educational based site done as a part of an hackerthon conducted by Cosco
